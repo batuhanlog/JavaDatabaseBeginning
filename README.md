@@ -1,1 +1,1 @@
-# Hafta-6
+simple java database practices
